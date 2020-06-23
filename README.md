@@ -19,7 +19,7 @@ Official docs: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](h
 
 Go to the project directory and run `flutter packages get` command. This will install all the packages and dependencies which are required.
 
-### Step: 5. Run the app
+### Step: 4. Run the app
 
 To run this app in the emulator, switch to the project directory, and use `flutter run` command in the terminal. 
 Make sure you have an emulator running, or a device connected over USB and debugging enabled on that device.
