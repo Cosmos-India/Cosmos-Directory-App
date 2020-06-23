@@ -4,15 +4,15 @@ This application is build on the flutter framework. So to reproduce the same you
 
 ### Step: 1. Install Flutter and required plugins for Windows OS
 
-Go through the official documentation to do the same: 
-`Flutter` installation: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)\
+Go through the official documentation to do the same:
+
+`Flutter` installation: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 `Flutter and Dart Plugins` installation: [https://flutter.dev/docs/get-started/editor](https://flutter.dev/docs/get-started/editor)
 
 ### Step: 2.  Install Git and Clone this repository
 
-Follow steps mentioned here:
-[https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/](https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/)
-Official docs: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)\
+Follow steps mentioned here:[https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/](https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/)
+Official docs: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 [https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 ### Step: 3. Install all the packages and dependencies
