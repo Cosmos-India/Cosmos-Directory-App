@@ -11,7 +11,7 @@ Go through the official documentation to do the same:
 
 ### Step: 2.  Install Git and Clone this repository
 
-Follow steps mentioned here:[https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/](https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/)
+Follow steps mentioned here:[https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/](https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/) <br>
 Official docs: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 [https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
