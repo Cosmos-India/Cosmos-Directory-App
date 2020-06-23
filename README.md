@@ -4,9 +4,8 @@ This application is build on the flutter framework. So to reproduce the same you
 
 ### Step: 1. Install Flutter and required plugins for Windows OS
 
-Go through the official documentation to do the same:
-
-`Flutter` installation: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+Go through the official documentation to do the same: <br>
+`Flutter` installation: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install) <br>
 `Flutter and Dart Plugins` installation: [https://flutter.dev/docs/get-started/editor](https://flutter.dev/docs/get-started/editor)
 
 ### Step: 2.  Install Git and Clone this repository
