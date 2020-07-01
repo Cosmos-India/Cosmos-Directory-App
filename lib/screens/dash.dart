@@ -32,14 +32,14 @@ class _dashBoardState extends State<dashBoard> {
               child: GridView.count(
                 padding: EdgeInsets.fromLTRB(2, 50, 2, 20),
                 crossAxisSpacing: 0,
-                mainAxisSpacing: 30,
+                mainAxisSpacing: 30, 
                 crossAxisCount: 3,
                 children: <Widget>[
                   FlatButton(
                     onPressed: () => {
                       Navigator.push(
                           context,
-                          CupertinoPageRoute(
+                          MaterialPageRoute(
                               builder: (context) => webviewclass(
                                   "https://cosmos.network/intro"))),
                     },
